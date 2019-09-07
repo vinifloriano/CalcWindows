@@ -341,7 +341,7 @@ document.addEventListener('keydown', function(evt) {
             $('#multiplicar').click();
             break;
         case 107: case 187:
-            $('#somar').click;
+            $('#somar').click();
             break;
         case 109: case 189:
             $('#subtrair').click();
